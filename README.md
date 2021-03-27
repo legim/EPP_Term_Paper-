@@ -22,3 +22,6 @@ The right sequence of files to run to replicate the US results:
  - Table of education elasticities estimated over time [(Table 3 Panel B)](link)
  - Calculations to quantify overall income and education effects: parameters of the model [(Table 5)](link) and quantification of the income and education effects [(Table 6)](link)
 
+## .zip files
+ - Please, extract files from the DATA.zip file to the data folder
+ - Please, extract files from the AuxiliaryFiles.zip file to the files folder
